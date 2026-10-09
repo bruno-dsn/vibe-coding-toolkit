@@ -1,3 +1,6 @@
+<!-- portfolio-fork-context -->
+> **Fork de estudo mantido por Bruno Nunes.** O projeto original é [soumatheusgomes/vibe-coding-toolkit](https://github.com/soumatheusgomes/vibe-coding-toolkit). A autoria e a licença originais foram preservadas. Consulte o [guia de estudo em português](docs/primeiros-passos-pt-br.md) para entender o escopo desta cópia e começar.
+
 <a id="topo"></a>
 <div align="center">
 
